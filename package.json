@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/B-Meehan/test-npm-versioning/issues"
   },
-  "homepage": "https://github.com/B-Meehan/test-npm-versioning#readme"
+  "homepage": "https://github.com/B-Meehan/test-npm-versioning#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
