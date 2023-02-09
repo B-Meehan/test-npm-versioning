@@ -1,7 +1,7 @@
 name: "Bump Version"
 on:
   pull_request:
-    types: [closed]
+    types: [synchronize]
 jobs:
   bump-version:
     name: "Bump Version on master"
